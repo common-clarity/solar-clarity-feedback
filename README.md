@@ -1,4 +1,4 @@
-# Solar Clarity — Community
+# Solar Clarity — Feedback
  
 This is the place to ask questions, share feedback, and suggest ideas for [Solar Clarity](https://solarclarity.tools) — a free, vendor-neutral DIY solar system sizing calculator. 
  
